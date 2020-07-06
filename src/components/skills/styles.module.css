@@ -1,0 +1,24 @@
+.skillsContainer {
+    display: flex;
+    flex-direction: column;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 4vh;
+}
+
+.skillContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.skillItem {
+    display: block;
+}
+
+.skillTitle {
+    font-weight: 500;
+}
+
+.skillList {
+    font-weight: 200;
+}

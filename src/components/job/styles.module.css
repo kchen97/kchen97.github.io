@@ -1,0 +1,28 @@
+.jobContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.infoContainer {
+    display: block;
+}
+
+#company {
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+#role {
+    font-weight: 200;
+    font-size: 1em;
+}
+
+#date {
+    font-weight: 200;
+}
+
+p {
+    text-align: left;
+}
