@@ -22,7 +22,7 @@ function Contact() {
                 <a href="https://github.com/kchen97">
                     <GitHubIcon className={styles.icon} color="primary" fontSize="large"/>
                 </a>
-                <a href="https://github.com/kchen97">
+                <a href="https://www.linkedin.com/in/kormanchen/">
                     <LinkedInIcon className={styles.icon} color="primary" fontSize="large"/>
                 </a>
             </div>
