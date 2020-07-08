@@ -39,7 +39,7 @@ function Project() {
                         <p>GradeKit is a simple gpa and grade calculator. It is built using Swift, UIKit, CoreData, CloudKit, and VIPER.</p>
                     </CardContent>
                     <CardActions>
-                        <Button className={styles.button} variant="contained" href="https://apps.apple.com/app/id1516769736">
+                        <Button className={styles.button} color="primary" variant="contained" href="https://apps.apple.com/app/id1516769736">
                             Download
                         </Button>
                     </CardActions>
@@ -51,10 +51,10 @@ function Project() {
                         <p>RestaurantTinder is a real-time tournament web application that helps groups decide what to eat. It is built with React, MongoDB, Express, Node.js, and Socket.io.</p>
                     </CardContent>
                     <CardActions>
-                        <Button className={styles.button} variant="contained" href="https://restaurant-tournament.herokuapp.com/">
+                        <Button className={styles.button} color="primary" variant="contained" href="https://restaurant-tournament.herokuapp.com/">
                             Visit
                         </Button>
-                        <Button className={styles.button} variant="contained" href="https://github.com/restaurant-tinder/restaurant-tinder">
+                        <Button className={styles.button} color="primary" variant="contained" href="https://github.com/restaurant-tinder/restaurant-tinder">
                             Github
                         </Button>
                     </CardActions>
